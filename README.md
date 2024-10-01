@@ -17,7 +17,8 @@
 pip install sensevoice-onnx
 
 # or pip from github
-pip install git+https://github.com/lovemefan/SenseVoice-python.git
+pip install git+https://github.com/shadowcz007/SenseVoice-python.git
+
 ```
 
 ### 使用
