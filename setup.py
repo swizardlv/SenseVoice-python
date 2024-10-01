@@ -16,11 +16,11 @@ version = "v1.1.0"
 requirements = {
     "install": [
         "setuptools<=65.0",
-        "numpy==1.24.4",
+        "numpy>=1.24.4",
         "kaldi_native_fbank",
         "onnxruntime>=1.17.0",
-        "sentencepiece==0.2.0",
-        "soundfile>=0.10.2",
+        "sentencepiece>=0.2.0",
+        "soundfile>=0.12.1",
         "huggingface_hub",
         "protobuf>=3.19.6"
     ]
