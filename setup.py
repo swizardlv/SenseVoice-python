@@ -15,7 +15,7 @@ version = "v1.1.0"
 
 requirements = {
     "install": [
-        "setuptools<=65.0",
+        "setuptools",
         "numpy>=1.24.4",
         "kaldi_native_fbank",
         "onnxruntime>=1.17.0",
